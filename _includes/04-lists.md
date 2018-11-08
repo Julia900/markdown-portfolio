@@ -1,4 +1,4 @@
-:hankey:
+&#x1F440
 
 * Bowser
 * princess
