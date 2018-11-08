@@ -1,1 +1,1 @@
-_Italic_ **can** combine with __bold__ 
+_But our princess is in_ **Another** _castle !_
